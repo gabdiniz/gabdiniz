@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com experiência na construção de plataformas web com
 
 Atuo no desenvolvimento de soluções end-to-end, participando desde a definição de fluxos e regras até a implementação de interfaces, integrações e serviços, com foco em performance, manutenibilidade e experiência do usuário.
 
-Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares e ambientes com regras de negócio críticas, desenvolvendo soluções voltadas para operação, rastreabilidade, automação e evolução de produto.
+Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares e ambientes com regras de negócio críticas, desarrollando soluções voltadas para operação, rastreabilidade, automação e evolução de produto.
 
 ### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldinizmendes)
@@ -31,6 +31,13 @@ Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares
   <img align="center" alt="github actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
+
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldinizmendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldinizmendes&layout=compact&theme=tokyonight&langs_count=7" />
+</p>
 
 ## Experiências que marcaram minha trajetória
 
