@@ -35,8 +35,8 @@ Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldinizmendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldinizmendes&layout=compact&theme=tokyonight&langs_count=7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdiniz&layout=compact&theme=tokyonight&langs_count=7" />
 </p>
 
 ## Experiências que marcaram minha trajetória
