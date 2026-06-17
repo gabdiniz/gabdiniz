@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com experiência na construção de plataformas web com
 
 Atuo no desenvolvimento de soluções end-to-end, participando desde a definição de fluxos e regras até a implementação de interfaces, integrações e serviços, com foco em performance, manutenibilidade e experiência do usuário.
 
-Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares e ambientes com regras de negócio críticas, desarrollando soluções voltadas para operação, rastreabilidade, automação e evolução de produto.
+Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares e ambientes com regras de negócio críticas, desenvolvendo soluções voltadas para operação, rastreabilidade, automação e evolução de produto.
 
 ### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldinizmendes)
@@ -48,4 +48,4 @@ Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares
 
 ## Sobre mim
 
-Gosto de transformar regras de negócio complexas em produtos claros, funcionais e escaláveis. Tenho forte interesse em arquitetura de software, experiência do usuário, integração entre sistemas e construção de produtos com impacto real na operação.
+Gosto de transformar regras de negócio complexas in produtos claros, funcionais e escaláveis. Tenho forte interesse em arquitetura de software, experiência do usuário, integração entre sistemas e construção de produtos com impacto real na operação.
