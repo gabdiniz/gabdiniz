@@ -1,51 +1,105 @@
-## Olá! Eu sou o Gabriel Diniz 🖐️
+# Gabriel Diniz 👋
 
-Desenvolvedor Full Stack com experiência na construção de plataformas web complexas, escaláveis e orientadas a negócio.
+### Full Stack Software Engineer • TypeScript • Node.js • AI Engineering
 
-Atuo no desenvolvimento de soluções end-to-end, participando desde a definição de fluxos e regras até a implementação de interfaces, integrações e serviços, com foco em performance, manutenibilidade e experiência do usuário.
+Desenvolvedor Full Stack especializado na construção de aplicações web escaláveis, APIs, arquiteturas modernas e soluções orientadas a produto.
 
-Tenho vivência em projetos SaaS, plataformas white label, sistemas hospitalares e ambientes com regras de negócio críticas, desenvolvendo soluções voltadas para operação, rastreabilidade, automação e evolução de produto.
+Atualmente meu foco está em criar aplicações utilizando **TypeScript em toda a stack**, desenvolvendo interfaces performáticas, backends robustos e integrações com modelos de IA para automatizar processos e acelerar o desenvolvimento de software.
 
-### Onde me encontrar
+Tenho grande interesse em:
+
+- 🤖 AI Engineering e aplicações com LLMs
+- ⚡ Arquitetura Full Stack
+- ☁️ Cloud Native (Google Cloud)
+- 🔥 Backend com Node.js
+- 📱 Aplicações Web e Mobile
+- 🧪 Qualidade de software (Testes E2E)
+- 🚀 Performance e Escalabilidade
+
+---
+
+## 🌎 Onde me encontrar
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldinizmendes)
 
-## Tecnologias do meu dia a dia
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br><br>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br><br>
-  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="github actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
+# ⚙️ Tech Stack
 
-## 📊 Minhas Estatísticas
+### Front-end
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdiniz&layout=compact&theme=tokyonight&langs_count=7" />
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,angular,tailwind,bootstrap" />
 </p>
 
-## Experiências que marcaram minha trajetória
+### Back-end
 
-- Desenvolvimento de plataforma hospitalar para gestão do ciclo de produção de medicamentos, incluindo prescrições, cálculo de doses, produção, qualidade, custos e rastreabilidade.
-- Construção de LMS white label com gamificação, carreiras, cursos, certificados e ranking de alunos, utilizado por marcas como iFood, Trident, Final Level e Gael.
-- Desenvolvimento de solução SaaS integrada ao sistema de armazenamento automatizado Hänel Rotomat para controle de abastecimento, retirada, estoque e operação logística hospitalar.
-- Participação na criação de plataforma para gestão e rastreamento de campanhas e influenciadores para uma das principais agências do segmento no Brasil.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,firebase,express" />
+</p>
 
-## Sobre mim
+### Mobile
 
-Gosto de transformar regras de negócio complexas in produtos claros, funcionais e escaláveis. Tenho forte interesse em arquitetura de software, experiência do usuário, integração entre sistemas e construção de produtos com impacto real na operação.
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,git,linux,postman" />
+</p>
+
+### Atualmente estudando
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis,kafka" />
+</p>
+
+---
+
+# 🤖 AI Stack
+
+- OpenAI API
+- Claude
+- Gemini
+- Prompt Engineering
+- AI Agents
+- MCP
+- RAG
+- Function Calling
+- Structured Outputs
+- AI-assisted Development
+- Vercel AI SDK
+- LangChain (aprendizado)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdiniz&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Atualmente
+
+- 🚀 Construindo aplicações Full Stack com Node.js + React + Next.js
+- 🤖 Desenvolvendo soluções utilizando Inteligência Artificial
+- ☁️ Explorando arquitetura na Google Cloud Platform
+- 📚 Aprimorando conhecimentos em Engenharia de Software, IA e Arquitetura
+
+---
+
+> "Building software that solves real problems."
