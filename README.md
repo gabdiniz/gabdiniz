@@ -2,82 +2,41 @@
 
 ### Full Stack Software Engineer • TypeScript • Node.js • AI Engineering
 
-Desenvolvedor Full Stack especializado na construção de aplicações web escaláveis, APIs, arquiteturas modernas e soluções orientadas a produto.
+Desenvolvedor Full Stack apaixonado por construir aplicações escaláveis, APIs robustas e produtos com foco em experiência do usuário.
 
-Atualmente meu foco está em criar aplicações utilizando **TypeScript em toda a stack**, desenvolvendo interfaces performáticas, backends robustos e integrações com modelos de IA para automatizar processos e acelerar o desenvolvimento de software.
-
-Tenho grande interesse em:
-
-- 🤖 AI Engineering e aplicações com LLMs
-- ⚡ Arquitetura Full Stack
-- ☁️ Cloud Native (Google Cloud)
-- 🔥 Backend com Node.js
-- 📱 Aplicações Web e Mobile
-- 🧪 Qualidade de software (Testes E2E)
-- 🚀 Performance e Escalabilidade
+Atualmente meu principal foco está em desenvolver soluções utilizando **TypeScript em toda a stack**, combinando **Node.js**, **React**, **Next.js**, **Google Cloud** e **Inteligência Artificial** para criar sistemas modernos, performáticos e preparados para produção.
 
 ---
 
-## 🌎 Onde me encontrar
+## 🚀 Atualmente
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldinizmendes)
+- 🤖 Desenvolvendo aplicações com IA (LLMs, Agents e MCP)
+- ⚙️ Construindo APIs escaláveis com Node.js
+- 🌐 Criando aplicações Full Stack com React e Next.js
+- ☁️ Explorando arquiteturas na Google Cloud Platform
+- 📚 Estudando Engenharia de IA e Arquitetura de Software
+
+---
+
+## 🌎 Contato
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gabrieldinizmendes">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 # ⚙️ Tech Stack
 
-### Front-end
+| 💻 Frontend | ⚙️ Backend |
+|:-----------|:-----------|
+| <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,angular,tailwind,bootstrap,react" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,postgres,mysql,mongodb" /> |
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,angular,tailwind,bootstrap" />
-</p>
-
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,firebase,express" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,git,linux,postman" />
-</p>
-
-### Atualmente estudando
-
-<p>
-<img src="https://skillicons.dev/icons?i=redis,kafka" />
-</p>
-
----
-
-# 🤖 AI Stack
-
-- OpenAI API
-- Claude
-- Gemini
-- Prompt Engineering
-- AI Agents
-- MCP
-- RAG
-- Function Calling
-- Structured Outputs
-- AI-assisted Development
-- Vercel AI SDK
-- LangChain (aprendizado)
+| ☁️ Cloud & AI | 🛠️ DevOps |
+|:--------------|:-----------|
+| <img src="https://skillicons.dev/icons?i=gcp,docker" /><br><br>**AI:** OpenAI • Claude • Gemini • MCP • AI Agents • RAG | <img src="https://skillicons.dev/icons?i=git,githubactions,linux,postman,redis,kafka" /> |
 
 ---
 
@@ -85,21 +44,44 @@ Tenho grande interesse em:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdiniz&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdiniz&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 💡 Atualmente
+# 💡 O que gosto de construir
 
-- 🚀 Construindo aplicações Full Stack com Node.js + React + Next.js
-- 🤖 Desenvolvendo soluções utilizando Inteligência Artificial
-- ☁️ Explorando arquitetura na Google Cloud Platform
-- 📚 Aprimorando conhecimentos em Engenharia de Software, IA e Arquitetura
+- 🚀 Plataformas SaaS
+- 🤖 Aplicações com Inteligência Artificial
+- ⚡ APIs REST e microsserviços
+- ☁️ Sistemas Cloud Native
+- 📱 Aplicações Web e Mobile
+- 🔄 Integrações entre sistemas
+- 📊 Dashboards e ferramentas de gestão
+- 🧪 Aplicações com foco em qualidade, testes e escalabilidade
 
 ---
 
-> "Building software that solves real problems."
+# 🎯 Áreas de interesse
+
+```text
+• AI Engineering
+• Software Architecture
+• Backend Development
+• Full Stack Applications
+• Cloud Computing
+• System Design
+• Developer Experience
+• Performance Optimization
+```
+
+---
+
+<p align="center">
+
+> *"Building software that solves real problems."*
+
+</p>
